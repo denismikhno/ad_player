@@ -1,8 +1,10 @@
 import os
 
 # Расписание
-START_HOUR, START_MINUTE = 8, 30
-END_HOUR, END_MINUTE = 16, 30
+START_HOUR = 7
+START_MINUTE = 30
+END_HOUR = 17
+END_MINUTE = 0
 WORKDAYS = [0, 1, 2, 3, 4]  # Пн=0 ... Пт=4
 
 # Пути
